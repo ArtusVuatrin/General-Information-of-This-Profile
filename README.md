@@ -1,4 +1,4 @@
-# General informations of the projects in this GitHub profile
+# General information of the projects in this GitHub profile
 
 
 
