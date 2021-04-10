@@ -1,6 +1,11 @@
 # General information of the projects in this GitHub profile
 
+------------
 
+##[BEGES Automation](https://github.com/dataforgoodfr/batch7_beges "Go to project repository")
+Project carried with the association Data 4 Good :
+We worked as a team on a tool helping French administrations to automate reports on their carbon emissions
+Link to the tool here : http://beges.ecolabdata.fr
 
 ------------
 ##[ChicagoStockExchange](https://github.com/ArtusVuatrin/ChicagoStockExchange "Go to project repository")
