@@ -4,7 +4,7 @@
 
 ## [BEGES Automation](https://github.com/dataforgoodfr/batch7_beges "Go to project repository")
 Project carried with the association Data 4 Good :
-We worked as a team on a tool helping French administrations to automate reports on their carbon emissions
+we worked as a team on a tool helping French administrations to automate reports on their carbon emissions.
 Link to the tool here : http://beges.ecolabdata.fr
 
 ---------------
@@ -36,7 +36,7 @@ Creation of an artificial intelligence of several levels of difficulties of the 
 ## [Formation_dce](https://github.com/ArtusVuatrin/formation_dce "Go to project repository")
 #### Framework PHP to manage a blog with articles and comments easily
 
-Work done during my formation for the internship in DreamCentury Entertainment. I created a framework from A to Z 
+Work done during my formation for the internship in DreamCentury Entertainment. I created a framework from A to Z.
 using the tutorial at this address: https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php. Then I 
 improved some of the functionality adapting it to the needs of the company.
 
